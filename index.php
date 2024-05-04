@@ -12,7 +12,7 @@
 <html>
 <body>
 
-<form method="POST" action="<?php echo $_SERVER['PHP_SELF'];?>">
+<form method="POST" action="<?php echo $_SERVER['PHP_SELF'];?>"> 
   Name: <input type="text" name="fname">
   <input type="submit">
 </form>
