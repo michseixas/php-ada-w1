@@ -7,7 +7,7 @@ function parOImpar($n)
     } else {
         return "impar";
     }
-}
+};
 
 $patata = readline('Elige un número y te diré si es par o ímpar!');
 
