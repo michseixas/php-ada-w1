@@ -6,6 +6,7 @@
 </head>
 
 <body>
+    <h1>Formulario de contacto</h1>
     <!--Paso 1: implementar el Form que utiliza el metodo POST para enviar los datos -->
     <!-- $_SERVER["PHP_SELF"] es una variable superglobal que hace referencia al script PHP actual. -->
     <form method="post" action="<?php echo $_SERVER["PHP_SELF"]; ?>">
